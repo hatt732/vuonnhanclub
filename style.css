@@ -3,7 +3,7 @@ Theme Name: Dugem Html
 Theme URI: https://html.themesawesome.com/dugemhtml
 Author: Themes Awesome
 Author URI: https://www.themesawesome.com
-Version: 1.0   
+Version: 1.0
 
 -----------------------------------------------------------------------------------
 [Color Codes]
@@ -16,9 +16,9 @@ Version: 1.0
 [Typography]
 
 Headers: 16px/14px Montserrat
-Heading: 42px/36px/24px Poppins
-paragraph: 18px Poppins
-Links: 12px Poppins
+Heading: 42px/36px/24px Jura
+paragraph: 18px Jura
+Links: 12px Jura
 Icons: 20px/16px/14px Fontawesome, Simple Line Icons, Themify
 
 Notes: To change the font, install it manually with convert the download zipped font to transfonter.org
@@ -71,7 +71,7 @@ body {
   color: #aaa;
   margin: 0;
   line-height: 1.618;
-  font-family: 'Poppins';
+  font-family: 'Jura';
   font-weight: 200;
 }
 
@@ -99,7 +99,7 @@ h6 {
   margin-bottom: 20px;
   margin-top: 0;
   color: #000000;
-  font-family: 'Poppins';
+  font-family: 'Jura';
 }
 
 .main-menu a {
@@ -208,7 +208,7 @@ q {
 
 blockquote p {
   line-height: 22px;
-  font-family: 'Poppins';
+  font-family: 'Jura';
   font-weight: 200;
   font-style: italic;
   color: #fff;
@@ -395,7 +395,7 @@ figure {
   font-size: 1.2rem;
   fill: #ffffff;
   padding: 10px 20px;
-  font-family: 'Poppins';
+  font-family: 'Jura';
   display: inline-block;
   border-style: solid;
   border-width: 2px 2px 2px 2px;
@@ -413,7 +413,7 @@ figure {
 }
 
 .button-basic-2 {
-  font-family: "PT Sans", Sans-serif;
+  font-family: "Jura", Sans-serif;
   font-size: 1.3rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -1026,7 +1026,7 @@ header {
 }
 
 .global-block .button-basic-2 {
-  font-family: "PT Sans", Sans-serif;
+  font-family: "Jura", Sans-serif;
   font-size: 1.3rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -2353,7 +2353,7 @@ td.tab-content.artist {
   margin: 0;
   font-size: 7rem;
   margin-bottom: 25px;
-  font-family: 'Poppins';
+  font-family: 'Jura';
   font-weight: normal;
 }
 
@@ -2425,7 +2425,7 @@ td.tab-content.artist {
   margin: 0;
   font-size: 7rem;
   margin-bottom: 0;
-  font-family: 'Poppins';
+  font-family: 'Jura';
   font-weight: normal;
 }
 

@@ -20,14 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f548d9eb-e50a-48d7-ba26-f68b68381732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/vuonnhan-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/Jura-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/Jura-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/Jura-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/Jura-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/Jura-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fonts/Jura-VariableFont_wght.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-event.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-event.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/countdown-dugem.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/countdown-dugem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +51,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/fonts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\01.Projects\vuonnhanpage\css\fonts" />
       <recent name="D:\01.Projects\vuonnhanpage\img" />
     </key>
   </component>
@@ -66,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664357454798</updated>
-      <workItem from="1664357456373" duration="1546000" />
+      <workItem from="1664357456373" duration="4030000" />
     </task>
     <servers />
   </component>
@@ -85,9 +88,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="141" width="579" height="592" key="find.popup" timestamp="1664358993432">
+    <state x="747" y="134" width="579" height="592" key="find.popup" timestamp="1664362066613">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="478" y="141" width="579" height="592" key="find.popup/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1664358993432" />
+    <state x="747" y="134" width="579" height="592" key="find.popup/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1664362066613" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1664360884166">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816/1920.0.1920.1032@0.0.1536.816" timestamp="1664360884166" />
   </component>
 </project>
