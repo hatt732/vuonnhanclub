@@ -2973,3 +2973,7 @@ h2.post-title.entry-title a:hover {
   color: #aaaaaa;
   margin-right: 5px;
 }
+
+.img--logo{
+  max-height: 70px;
+}
