@@ -1,6 +1,0 @@
-user.name=hatt-hust
-user.email=hatt.hust@gmail.com
-difftool.sourcetree.cmd='' "$LOCAL" "$REMOTE"
-mergetool.sourcetree.cmd='' 
-mergetool.sourcetree.trustexitcode=true
-credential.helper=store
