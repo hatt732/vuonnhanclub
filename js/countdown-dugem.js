@@ -7,7 +7,7 @@
          hour = minute * 60,
          day = hour * 24;
 
-         const birthday = "Dec 31, 2022 00:00:00",
+         const birthday = "Sep 30, 2022 00:00:00",
          countDown = new Date(birthday).getTime(),
          x = setInterval(function() {
 
