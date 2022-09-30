@@ -7,7 +7,7 @@
          hour = minute * 60,
          day = hour * 24;
 
-         const birthday = "Sep 29, 2022 18:00:00",
+         const birthday = "Oct 1, 2022 00:00:00",
          countDown = new Date(birthday).getTime(),
          x = setInterval(function() {
 
@@ -21,7 +21,12 @@
 
              //do something later when date is reached
              if (distance < 0) {
-                 let headline = document.getElementById("headline"),
+                document.getElementById("days").innerText = '00',
+                document.getElementById("hours").innerText = '00',
+                document.getElementById("minutes").innerText = '00',
+                document.getElementById("seconds").innerText = '00';
+                document.getElementById("comming").innerText = 'Het Han';
+                let headline = document.getElementById("headline"),
                      countdown = document.getElementByClassName("countdown"),
                      content = document.getElementById("content");
 
